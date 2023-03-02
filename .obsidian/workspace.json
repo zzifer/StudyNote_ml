@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "b8906d7a370a1dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6cd9ece6028bbd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "240396b07022eaae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "papaer_3d/Drawing 2023-03-02 14.33.32.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65c263cd68e19e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad2a02d6129bf67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27ff3339a0f2922",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99290b84b8bc1323",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8932961d1b2b6ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "87d563af0b1ea18c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f4cdd6899354916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a5fb7d7197ebef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "papaer_3d/Drawing 2023-03-02 14.33.32.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31e6596f8f96fd0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "papaer_3d/Drawing 2023-03-02 14.33.32.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52710d9d3449329f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d127b27669d21be7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "papaer_3d/Drawing 2023-03-02 14.33.32.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "240396b07022eaae",
+  "lastOpenFiles": [
+    "papaer_3d/Learning general and distinctive 3D local deep descriptors for point cloud registration.md",
+    "papaer_3d/Drawing 2023-03-02 14.33.32.excalidraw.md",
+    "Excalidraw",
+    "papaer_3d"
+  ]
+}
